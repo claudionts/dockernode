@@ -1,5 +1,5 @@
-"# dockernode"
+## dockernode
 
-Para inicializar
+### Para inicializar usar o comando
 
 `docker-compose up`
